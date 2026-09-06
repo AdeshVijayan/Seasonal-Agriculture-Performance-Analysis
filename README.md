@@ -106,6 +106,10 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── Data/
 ├── Notebook/
 │   ├── Seasonal_Agriculture_Performance_Analysis.ipynb
+
+## Project Presentation
+
+[View Project Presentation](Presentation/Seasonal_Agriculture_Performance_Analysis.pptx)
 │   └── seasonal_agriculture_performance_dataset.xlsx
 │
 ├── .gitignore
