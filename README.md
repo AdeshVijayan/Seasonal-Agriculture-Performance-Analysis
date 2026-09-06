@@ -104,14 +104,16 @@ Future analysis can include:
 Seasonal-Agriculture-Performance-Analysis/
 │
 ├── Data/
+│   └── Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf
+│
 ├── Notebook/
 │   ├── Seasonal_Agriculture_Performance_Analysis.ipynb
-
-## Project Presentation
-
-[View Project Presentation](Presentation/Seasonal_Agriculture_Performance_Analysis.pptx)
 │   └── seasonal_agriculture_performance_dataset.xlsx
+│
+├── Presentation/
+│   └── Seasonal_Agriculture_Performance_Analysis.pptx
 │
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
